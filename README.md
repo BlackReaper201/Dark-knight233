@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Dark-Knight233">
   <img align="center" width="49%" src="./overall.svg" />
 </a>
-<a href="https://github.com/grm34">
+<a href="https://github.com/Dark-Knight233">
   <img align="center" width="49%" src="./achievements.svg" />
 </a>
