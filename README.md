@@ -13,12 +13,5 @@ You can click the Preview link to take a look at your changes.
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Dark-Knight233&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=yes&count_private=true" />
 </a>
 <a href="https://github.com/Dark-Knight233">
-  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Knight233&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Dark-Knight233">
-  <img align="center" width="49%" src="./overall.svg" />
-</a>
-<a href="https://github.com/Dark-Knight233">
-  <img align="center" width="49%" src="./achievements.svg" />
+  <img align="center" width="49%" src="Dark-Knight233/Dark-Knight233/raw/main/overall.svg" style="max-width: 100%;">
 </a>
